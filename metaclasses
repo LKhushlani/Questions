@@ -1,0 +1,9 @@
+Default metaclass is type class.
+class type is a metaclass
+A metaclass allows users to add special behaviors to a class. 
+In python everything is an object, a class is also an object and each class object  is created by a metaclass objects.
+we use metaprogramming to modify the  class objects .
+
+
+
+
